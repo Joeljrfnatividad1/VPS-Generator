@@ -10,9 +10,9 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Constants
 SERVER_LIMIT = 5 
-AUTHORIZED_ROLE_IDS = [000000000000000000, 000000000000000000]
+AUTHORIZED_ROLE_IDS = [1293509075933593620, 000000000000000000]
 database_file = "servers.txt"
-TOKEN = "YOUR_TOKEN"
+TOKEN = "MTI5Nzc0NTIxOTM0MDU5OTM5Nw.GlBasB.sMylj8w1MZndSi8foziCMSkCvIFR5np86nHALw"
 
 # Helper functions
 def count_user_servers(user):
